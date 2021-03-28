@@ -1,5 +1,5 @@
 # ged-parser
-Parse GEDCOM files for [rpreiner/tam](https://github.com/rpreiner/tam)
+Parse GEDCOM files for [rpreiner/tam](https://github.com/rpreiner/tam)  
 This has become redundant as the original webapp now supports .ged files.
 
 This Node.js module uses [gedcom-d3](https://github.com/mister-blanket/gedcom-d3) to parse GEDCOM files and prepare them to be used in rpreiner/tam.
